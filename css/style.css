@@ -64,7 +64,7 @@ ul li a:hover {
 .banner {
     width: 100%;
     height: 600px;
-    background-image: url(../assets/hinh/Heimerdinger_0.jpg);
+    background-image: url(../hinh/Heimerdinger_0.jpg);
     background-size: cover;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -111,7 +111,7 @@ ul li a:hover {
     justify-content: center;
     width: 100%;
     height: auto;
-    background-image: url(../assets/hinh/Ahri-WR.jpg);
+    background-image: url(../hinh/Ahri-WR.jpg);
     background-repeat: repeat;
     display: flex;
     flex-direction: row;
@@ -207,7 +207,7 @@ width: 150px;
 .agent-demo2 {
     width: 1490px;
     height: 560px;
-    background-image: url(../assets/hinh/lux-con-ojos-cerrados-de-league-of-legends-6648.webp);
+    background-image: url(../hinh/lux-con-ojos-cerrados-de-league-of-legends-6648.webp);
     background-size: cover;
 }
 
@@ -259,6 +259,7 @@ width: 150px;
 .character-item1 .character-img img{
     width: 100%;
     height: 485px;
+    background-image: url(../hinh/jax.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -266,6 +267,7 @@ width: 150px;
 .character-item2 .character-img img{
     width: 100%;
     height: 485px;
+    background-image: url(../hinh/yasuo.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -273,6 +275,7 @@ width: 150px;
 .character-item3 .character-img img{
     width: 100%;
     height: 485px;
+    background-image: url(../hinh/mis.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -280,6 +283,7 @@ width: 150px;
 .character-item4 .character-img img{
     width: 100%;
     height: 485px;
+    background-image: url(../hinh/soraka.jpg);
     background-size: cover;
     background-position: center;
 }
